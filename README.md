@@ -10,6 +10,7 @@ The Customer Segmentation and Prediction App is a web-based application designed
 - **Customer Segmentation:** Utilizes K-Means clustering to categorize customers into distinct segments.
 - **Individual Predictions:** Uses a Decision Tree model to provide personalized recommendations for each customer.
 - **User-Friendly Interface:** Built with Streamlit for easy data input and visualization.
+<img width="960" alt="Screenshot 2024-01-13 113416" src="https://github.com/ansarifaisal12/Customer_Segementation/assets/115267921/aae247c5-920a-4933-acb5-a8d53aa0b21f">
 
 ## Getting Started
 
